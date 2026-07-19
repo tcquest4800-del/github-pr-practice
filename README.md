@@ -1,6 +1,6 @@
 # GitHub PR Practice
 
-This is a small practice project for lerning how to open a Pull Request on GitHub.
+This is a small practice project for learning how to open a Pull Request on GitHub.
 
 ## What's here
 
